@@ -1,3 +1,4 @@
 # shotguns-vs-zombies
 ![](sz.gif)
-2-D Arcade Game made with GML
+
+A 2-D top down arcade shooter made in GML. 
