@@ -1,3 +1,3 @@
 # Shotguns-VS-Zombies
-![](shotgun_zombie.gif)
+![](sz.gif)
 2-D Arcade Game made with GML
