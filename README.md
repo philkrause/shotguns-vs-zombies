@@ -1,5 +1,5 @@
 # shotguns-vs-zombies
-A 2-D top down arcade shooter made in GML. 
+A 2-D top down arcade shooter made in [GML](https://www.yoyogames.com/gamemaker) 
 ![](sz.gif)
 
 
